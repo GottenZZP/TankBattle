@@ -1,7 +1,5 @@
 package TankBattle;
 
-import com.sun.xml.internal.bind.v2.TODO;
-
 import javax.swing.*;
 import java.awt.*;
 import java.awt.event.KeyEvent;

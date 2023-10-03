@@ -1,4 +1,4 @@
-//package TankBattle;
+package TankBattle;//package TankBattle;
 //
 //import javax.swing.*;
 //import java.awt.*;

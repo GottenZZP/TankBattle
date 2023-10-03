@@ -1,7 +1,6 @@
 package TankBattle;
 
 import java.util.Random;
-import java.util.Vector;
 
 public class EnemyTank extends Tank implements Runnable {
     private int randomSpeed = 50;
